@@ -1,1 +1,2 @@
-created my first repository in github
+Implemented a model for recommending colleges based on the student's profile
+
